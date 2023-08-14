@@ -1,6 +1,7 @@
 # TT Modulation Bible
 
 ## Common Techniques
+
 ### Amplitude Modulation (AM):
 
 Equation:
@@ -22,6 +23,8 @@ Additional Data:
 - Common Broadcasting Power: 1 kW to 50 kW
 - Inverse Demodulation Equation: `m(t) = x(t) / (A * (1 + mi * m(t)))`
 
+
+___
 
 **Frequency Modulation (FM):**
 
@@ -45,6 +48,8 @@ Additional Data:
 - Inverse Demodulation Equation: Demodulation of FM signals involves complex signal processing and is usually performed using FM demodulators.
 
 
+___
+
 **Phase Modulation (PM):**
 
 Equation:
@@ -67,6 +72,8 @@ Additional Data:
 - Inverse Demodulation Equation: Demodulation of PM signals involves complex signal processing and is typically performed using phase detectors.
 
 
+___
+
 **Pulse Width Modulation (PWM):**
 
 In Pulse Width Modulation (PWM), analog information is encoded into digital signals by altering the width of pulses within a periodic waveform. This technique finds applications in motor control, audio synthesis, and power converters.
@@ -88,6 +95,7 @@ x(t) = PWM(t, D)
 - Inverse Demodulation Equation: Demodulation of PWM signals involves controlling actuators or devices based on the duty cycle of the signal. It's not usually demodulated in the same way as traditional modulation techniques.
 
 
+___
 
 **Amplitude Shift Keying (ASK):**
 
