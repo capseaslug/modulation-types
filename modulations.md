@@ -64,3 +64,66 @@ Additional Data:
 - Common Broadcasting Power: N/A (mainly used for digital communication)
 - Inverse Demodulation Equation: Demodulation of PM signals involves complex signal processing and is typically performed using phase detectors.
 
+
+**Pulse Width Modulation (PWM):**
+
+In Pulse Width Modulation (PWM), analog information is encoded into digital signals by altering the width of pulses within a periodic waveform. This technique finds applications in motor control, audio synthesis, and power converters.
+
+**Equation:**
+```plaintext
+x(t) = PWM(t, D)
+```
+
+**Parameters:**
+- `D`: Duty cycle of the PWM signal.
+
+**Additional Data:**
+- Modulation Type: Pulse Width Modulation (PWM)
+- Carrier Waveform: Square
+- Modulating Waveform: Analog signal
+- Applications: Motor control, audio synthesis, power converters
+- Common Broadcasting Power: N/A (typically used for control and synthesis)
+- Inverse Demodulation Equation: Demodulation of PWM signals involves controlling actuators or devices based on the duty cycle of the signal. It's not usually demodulated in the same way as traditional modulation techniques.
+
+
+
+**Amplitude Shift Keying (ASK):**
+
+Equation:
+```plaintext
+x(t) = A * (1 + m(t)) * cos(2 * π * fc * t)
+```
+
+Parameters:
+- `A`: Amplitude of the carrier signal.
+- `fc`: Carrier frequency.
+- `m(t)`: Digital message signal.
+
+Additional Data:
+- Modulation Type: Amplitude Shift Keying (ASK)
+- Carrier Waveform: Sinusoidal
+- Modulating Waveform: Digital bits
+- Applications: Digital communication, RFID systems
+- Common Broadcasting Power: N/A (mainly used for short-range communication)
+- Inverse Demodulation Equation: `m(t) = (x(t) / A) - 1`
+
+**Frequency Shift Keying (FSK):**
+
+Equation:
+```plaintext
+x(t) = A * cos(2 * π * f1 * t + φ(m(t)))
+```
+
+Parameters:
+- `A`: Amplitude of the carrier signal.
+- `f1`: Frequency for binary value "1".
+- `φ(m(t))`: Phase deviation based on modulating signal.
+
+Additional Data:
+- Modulation Type: Frequency Shift Keying (FSK)
+- Carrier Waveform: Sinusoidal
+- Modulating Waveform: Digital bits
+- Applications: Digital communication, wireless remote control
+- Common Broadcasting Power: N/A (mainly used for short-range communication)
+- Inverse Demodulation Equation: Demodulation of FSK signals involves using frequency detectors for each binary value.
+
