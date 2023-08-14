@@ -127,7 +127,6 @@ Additional Data:
 - Common Broadcasting Power: N/A (mainly used for short-range communication)
 - Inverse Demodulation Equation: Demodulation of FSK signals involves using frequency detectors for each binary value.
 
-Absolutely, let's proceed with the next modulation techniques:
 
 **Amplitude Shift Keying (ASK):**
 
@@ -173,4 +172,3 @@ x(t) = A * cos(2 * π * f1 * t + φ(m(t)))
 - Common Broadcasting Power: N/A (mainly used for short-range communication)
 - Inverse Demodulation Equation: Demodulation of FSK signals involves using frequency detectors for each binary value.
 
-Let me know if you're ready for the next set of modulation techniques!
