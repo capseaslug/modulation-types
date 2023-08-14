@@ -1,4 +1,3 @@
-Of course, I'll provide the information you've requested. Let's start with the first modulation technique:
 
 **Amplitude Modulation (AM):**
 
@@ -21,7 +20,6 @@ Additional Data:
 - Common Broadcasting Power: 1 kW to 50 kW
 - Inverse Demodulation Equation: `m(t) = x(t) / (A * (1 + mi * m(t)))`
 
-Next, let's move on to the second modulation technique:
 
 **Frequency Modulation (FM):**
 
@@ -44,4 +42,3 @@ Additional Data:
 - Common Broadcasting Power: 1 kW to 100 kW
 - Inverse Demodulation Equation: Demodulation of FM signals involves complex signal processing and is usually performed using FM demodulators.
 
-Please let me know when you're ready for the next modulation technique.
