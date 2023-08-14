@@ -2,17 +2,38 @@
 Modulation is a fundamental technique used in communication systems to transmit information efficiently and reliably over different types of channels. It involves varying certain properties of a carrier signal, such as amplitude, frequency, or phase, in accordance with the information to be transmitted. Modulation allows information to be superimposed onto a carrier signal, enabling it to travel through various mediums, including air, cables, or optical fibers, without losing its integrity.
 
 ## Table of Contents
-- [Introduction to Modulation](#introduction-to-modulation)
 - [Common Techniques](#common-techniques)
 - [Rare Techniques](#rare-techniques)
 - [Military Grade Techniques](#military-grade-techniques)
 - [Theoretical Techniques](#theoretical-techniques)
 - [Wacky Techniques](#wacky-techniques)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 - [Contact Information](#contact-information)
 
+## Common Techniques
+- Amplitude Modulation (AM)
+- Frequency Modulation (FM)
+- Phase Modulation (PM)
+
+## Rare Techniques
+- Spread Spectrum Modulation
+- Polar Modulation
+- Frequency Shift Keying (FSK)
+
+## Military Grade Techniques
+- Direct-Sequence Spread Spectrum (DSSS)
+- Frequency Hopping Spread Spectrum (FHSS)
+- Chirp Modulation
+
+## Theoretical Techniques
+- Multiverse Modulation
+- String Modulation
+- Dark Matter Modulation
+
+## Wacky Techniques
+- Quantum Foam Modulation
+- Cosmic Microwave Modulation
+- Time Crystal Modulation
 
 ## Common Techniques
 In this section, we delve into the fundamental modulation techniques that are widely used in various communication systems. We explore techniques like Amplitude Modulation (AM), Frequency Modulation (FM), and Phase Modulation (PM). Each technique is explained in terms of its equations, parameters, additional data, applications, and the inverse demodulation equations that are used to recover the transmitted information. This section provides the foundational knowledge for understanding how modulation forms the basis of modern communication systems.
