@@ -1,5 +1,4 @@
-
-#Common Techniques#
+*Common Techniques*
 ##Amplitude Modulation (AM):##
 
 Equation:
