@@ -1,4 +1,4 @@
-# TT's Signal Modulation Bible
+# TT Modulation Bible
 Common Techniques
 ##Amplitude Modulation (AM):##
 
