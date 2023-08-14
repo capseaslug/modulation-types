@@ -172,3 +172,49 @@ x(t) = A * cos(2 * π * f1 * t + φ(m(t)))
 - Common Broadcasting Power: N/A (mainly used for short-range communication)
 - Inverse Demodulation Equation: Demodulation of FSK signals involves using frequency detectors for each binary value.
 
+Certainly! Let's proceed with the next set of modulation techniques:
+
+**Phase Shift Keying (PSK):**
+
+Phase Shift Keying (PSK) is a digital modulation technique that varies the phase of the carrier signal to encode digital data.
+
+**Equation:**
+```plaintext
+x(t) = A * cos(2 * π * fc * t + φ(m(t)))
+```
+
+**Parameters:**
+- `A`: Amplitude of the carrier signal.
+- `fc`: Carrier frequency.
+- `φ(m(t))`: Phase deviation based on modulating signal.
+
+**Additional Data:**
+- Modulation Type: Phase Shift Keying (PSK)
+- Carrier Waveform: Sinusoidal
+- Modulating Waveform: Digital bits
+- Applications: Digital communication, wireless networks
+- Common Broadcasting Power: N/A (mainly used for short-range communication)
+- Inverse Demodulation Equation: Demodulation of PSK signals involves phase detectors to determine the phase shift and decode the digital symbols.
+
+**Quadrature Amplitude Modulation (QAM):**
+
+Quadrature Amplitude Modulation (QAM) is a digital modulation technique that combines amplitude and phase modulation.
+
+**Equation:**
+```plaintext
+x(t) = A * cos(2 * π * fc * t) * I(t) - A * sin(2 * π * fc * t) * Q(t)
+```
+
+**Parameters:**
+- `A`: Amplitude of the carrier signal.
+- `fc`: Carrier frequency.
+
+**Additional Data:**
+- Modulation Type: Quadrature Amplitude Modulation (QAM)
+- Carrier Waveform: Sinusoidal
+- Modulating Waveform: Digital symbols
+- Applications: Digital communication, cable modems, Wi-Fi
+- Common Broadcasting Power: N/A (mainly used for data transmission)
+- Inverse Demodulation Equation: Demodulation of QAM signals involves extracting the I and Q components and mapping them to the digital symbols.
+
+Let me know if you're ready for the next set of modulation techniques!
