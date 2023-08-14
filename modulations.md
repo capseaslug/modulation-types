@@ -10,30 +10,7 @@ Modulation is a fundamental technique used in communication systems to transmit 
 - [Contributing](#contributing)
 - [Contact Information](#contact-information)
 
-## Common Techniques
-- Amplitude Modulation (AM)
-- Frequency Modulation (FM)
-- Phase Modulation (PM)
 
-## Rare Techniques
-- Spread Spectrum Modulation
-- Polar Modulation
-- Frequency Shift Keying (FSK)
-
-## Military Grade Techniques
-- Direct-Sequence Spread Spectrum (DSSS)
-- Frequency Hopping Spread Spectrum (FHSS)
-- Chirp Modulation
-
-## Theoretical Techniques
-- Multiverse Modulation
-- String Modulation
-- Dark Matter Modulation
-
-## Wacky Techniques
-- Quantum Foam Modulation
-- Cosmic Microwave Modulation
-- Time Crystal Modulation
 
 ## Common Techniques
 In this section, we delve into the fundamental modulation techniques that are widely used in various communication systems. We explore techniques like Amplitude Modulation (AM), Frequency Modulation (FM), and Phase Modulation (PM). Each technique is explained in terms of its equations, parameters, additional data, applications, and the inverse demodulation equations that are used to recover the transmitted information. This section provides the foundational knowledge for understanding how modulation forms the basis of modern communication systems.
@@ -1410,4 +1387,24 @@ x(t) = Temporal Anomaly Modulation equation
 - Applications: Speculative physics, hypothetical communication
 - Common Broadcasting Power: N/A (mainly theoretical and speculative)
 - Inverse Demodulation Equation: Temporal Anomaly Modulation is a highly speculative concept involving the detection of variations in temporal anomalies.
+
+
+____
+
+
+## Support and Contact
+- **License:** This project is licensed under the MIT License.
+- **Contact:** For questions or collaborations, todelldesign@gmail.com
+- **Support:** cashapp: @travisodellart or payapal: paypal.me/odellcreativegroup
+
+Thank you for reading and using this information in your project or studies, I hope this guide was helpful.
+
+## License
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
