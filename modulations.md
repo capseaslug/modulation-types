@@ -217,4 +217,46 @@ x(t) = A * cos(2 * π * fc * t) * I(t) - A * sin(2 * π * fc * t) * Q(t)
 - Common Broadcasting Power: N/A (mainly used for data transmission)
 - Inverse Demodulation Equation: Demodulation of QAM signals involves extracting the I and Q components and mapping them to the digital symbols.
 
-Let me know if you're ready for the next set of modulation techniques!
+
+**Single Sideband Modulation (SSB):**
+
+Single Sideband Modulation (SSB) is a technique that suppresses one of the sidebands and the carrier to efficiently use bandwidth.
+
+**Equation:**
+```plaintext
+x(t) = A * cos(2 * π * fc * t) * m(t) - A * sin(2 * π * fc * t) * HilbertTransform(m(t))
+```
+
+**Parameters:**
+- `A`: Amplitude of the carrier signal.
+- `fc`: Carrier frequency.
+- `m(t)`: Modulating signal.
+
+**Additional Data:**
+- Modulation Type: Single Sideband Modulation (SSB)
+- Carrier Waveform: Sinusoidal
+- Modulating Waveform: Sinusoidal
+- Applications: Radio communication, telephony
+- Common Broadcasting Power: Varies depending on the application
+- Inverse Demodulation Equation: Demodulation of SSB signals involves using a product detector and carrier recovery to extract the modulating signal.
+
+**Vestigial Sideband Modulation (VSB):**
+
+Vestigial Sideband Modulation (VSB) transmits one sideband and a portion of the other sideband while suppressing the remaining sideband.
+
+**Equation:**
+```plaintext
+x(t) = A * m(t) * carrier(t) * LPF(t)
+```
+
+**Parameters:**
+- `A`: Amplitude of the modulated signal.
+
+**Additional Data:**
+- Modulation Type: Vestigial Sideband Modulation (VSB)
+- Carrier Waveform: Sinusoidal
+- Modulating Waveform: Sinusoidal
+- Applications: Analog TV broadcasting, AM radio broadcasting
+- Common Broadcasting Power: Varies depending on the application
+- Inverse Demodulation Equation: Demodulation of VSB signals involves using a vestigial sideband filter to extract the modulating signal.
+
