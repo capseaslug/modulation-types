@@ -623,4 +623,46 @@ x(t) = Chromatic Modulation equation
 
 Feel free to use these less common modulation techniques for your learning resource! If you're interested in more, just let me know.
 
+Absolutely, let's continue exploring more less common and obscure modulation techniques:
 
+**Wavelet Modulation:**
+
+Wavelet Modulation employs wavelets to modulate and demodulate signals, often used in data compression and denoising.
+
+**Equation:**
+```plaintext
+x(t) = Wavelet Modulation equation
+```
+
+**Parameters:**
+- `param1`, `param2`: Custom parameters for Wavelet Modulation.
+
+**Additional Data:**
+- Modulation Type: Wavelet Modulation
+- Carrier Waveform: N/A (uses wavelets)
+- Modulating Waveform: Wavelet transform of the signal
+- Applications: Data compression, signal denoising
+- Common Broadcasting Power: N/A (mainly used for signal processing)
+- Inverse Demodulation Equation: Demodulation of Wavelet Modulation involves using wavelet transforms to recover the original signal.
+
+**Pulse Position Modulation (PPM):**
+
+Pulse Position Modulation (PPM) encodes information by varying the position of pulses within a fixed time period.
+
+**Equation:**
+```plaintext
+x(t) = PPM equation
+```
+
+**Parameters:**
+- `param1`, `param2`: Custom parameters for PPM.
+
+**Additional Data:**
+- Modulation Type: Pulse Position Modulation (PPM)
+- Carrier Waveform: N/A (uses pulse positions)
+- Modulating Waveform: Discrete signal
+- Applications: Optical communication, laser communication
+- Common Broadcasting Power: N/A (mainly used for specific applications)
+- Inverse Demodulation Equation: Demodulation of PPM involves detecting the positions of pulses within the time period.
+
+Please feel free to utilize these less common modulation techniques for your learning resource. If you're curious about more, just let me know!
