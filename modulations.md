@@ -42,3 +42,25 @@ Additional Data:
 - Common Broadcasting Power: 1 kW to 100 kW
 - Inverse Demodulation Equation: Demodulation of FM signals involves complex signal processing and is usually performed using FM demodulators.
 
+
+**Phase Modulation (PM):**
+
+Equation:
+```plaintext
+x(t) = A * cos(2 * π * fc * t + k * m(t))
+```
+
+Parameters:
+- `A`: Amplitude of the carrier signal.
+- `fc`: Carrier frequency.
+- `k`: Phase modulation sensitivity.
+- `m(t)`: Modulating signal.
+
+Additional Data:
+- Modulation Type: Phase Modulation (PM)
+- Carrier Waveform: Sinusoidal
+- Modulating Waveform: Sinusoidal, Digital bits
+- Applications: Phase-shift keying (PSK), digital communication
+- Common Broadcasting Power: N/A (mainly used for digital communication)
+- Inverse Demodulation Equation: Demodulation of PM signals involves complex signal processing and is typically performed using phase detectors.
+
