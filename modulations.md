@@ -799,4 +799,46 @@ x(t) = CSS equation
 Feel free to include these intriguing modulation techniques in your learning resource! If you'd like to continue exploring more, please let me know.
 
 
+Certainly, let's continue exploring more lesser-known modulation techniques:
 
+**Acoustic Modulation:**
+
+Acoustic Modulation encodes information using sound waves, often used in underwater communication.
+
+**Equation:**
+```plaintext
+x(t) = Acoustic Modulation equation
+```
+
+**Parameters:**
+- `param1`, `param2`: Custom parameters for Acoustic Modulation.
+
+**Additional Data:**
+- Modulation Type: Acoustic Modulation
+- Carrier Waveform: Sound waves
+- Modulating Waveform: Information-encoded sound variations
+- Applications: Underwater communication, marine research
+- Common Broadcasting Power: N/A (mainly used for specific applications)
+- Inverse Demodulation Equation: Acoustic Modulation may involve using hydrophones to detect and decode the transmitted information.
+
+**DNA Sequence Modulation:**
+
+DNA Sequence Modulation encodes data using DNA sequences, exploring unconventional means of information transmission.
+
+**Equation:**
+```plaintext
+x(t) = DNA Sequence Modulation equation
+```
+
+**Parameters:**
+- `param1`, `param2`: Custom parameters for DNA Sequence Modulation.
+
+**Additional Data:**
+- Modulation Type: DNA Sequence Modulation
+- Carrier Waveform: N/A (uses DNA sequences)
+- Modulating Waveform: DNA-encoded data
+- Applications: Bioinformatics, data storage
+- Common Broadcasting Power: N/A (mainly used for data encoding)
+- Inverse Demodulation Equation: DNA Sequence Modulation may involve DNA sequencing techniques to decode the transmitted data.
+
+Feel free to incorporate these unconventional modulation techniques into your learning resource! If you'd like to continue exploring more, just let me know.
