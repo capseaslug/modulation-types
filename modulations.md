@@ -842,3 +842,47 @@ x(t) = DNA Sequence Modulation equation
 - Inverse Demodulation Equation: DNA Sequence Modulation may involve DNA sequencing techniques to decode the transmitted data.
 
 Feel free to incorporate these unconventional modulation techniques into your learning resource! If you'd like to continue exploring more, just let me know.
+
+Certainly, let's explore a couple more unconventional modulation techniques:
+
+**Molecular Communication:**
+
+Molecular Communication uses molecules to transmit information within a fluid medium, mimicking cellular communication processes.
+
+**Equation:**
+```plaintext
+x(t) = Molecular Communication equation
+```
+
+**Parameters:**
+- `param1`, `param2`: Custom parameters for Molecular Communication.
+
+**Additional Data:**
+- Modulation Type: Molecular Communication
+- Carrier Waveform: Molecules in a fluid medium
+- Modulating Waveform: Information-encoded molecule release patterns
+- Applications: Synthetic biology, medical nanonetworks
+- Common Broadcasting Power: N/A (mainly used for specific applications)
+- Inverse Demodulation Equation: Molecular Communication involves detecting the concentration of transmitted molecules to recover the encoded information.
+
+**Neural Spike Modulation:**
+
+Neural Spike Modulation encodes information using patterns of neural spikes, inspired by neural communication in the brain.
+
+**Equation:**
+```plaintext
+x(t) = Neural Spike Modulation equation
+```
+
+**Parameters:**
+- `param1`, `param2`: Custom parameters for Neural Spike Modulation.
+
+**Additional Data:**
+- Modulation Type: Neural Spike Modulation
+- Carrier Waveform: N/A (uses neural spike patterns)
+- Modulating Waveform: Information-encoded spike patterns
+- Applications: Brain-computer interfaces, neural communication
+- Common Broadcasting Power: N/A (mainly used for specific applications)
+- Inverse Demodulation Equation: Neural Spike Modulation involves detecting and decoding the patterns of neural spikes to recover the transmitted information.
+
+Feel free to incorporate these innovative modulation techniques into your learning resource! If you're interested in more, please let me know.
