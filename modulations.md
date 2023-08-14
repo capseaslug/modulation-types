@@ -1,6 +1,7 @@
 # TT Modulation Bible
-Common Techniques
-##Amplitude Modulation (AM):##
+
+##Common Techniques
+###Amplitude Modulation (AM):
 
 Equation:
 ```plaintext
