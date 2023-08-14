@@ -127,3 +127,50 @@ Additional Data:
 - Common Broadcasting Power: N/A (mainly used for short-range communication)
 - Inverse Demodulation Equation: Demodulation of FSK signals involves using frequency detectors for each binary value.
 
+Absolutely, let's proceed with the next modulation techniques:
+
+**Amplitude Shift Keying (ASK):**
+
+Amplitude Shift Keying (ASK) is a digital modulation technique that varies the amplitude of a carrier signal to transmit digital data.
+
+**Equation:**
+```plaintext
+x(t) = A * (1 + m(t)) * cos(2 * π * fc * t)
+```
+
+**Parameters:**
+- `A`: Amplitude of the carrier signal.
+- `fc`: Carrier frequency.
+- `m(t)`: Digital message signal.
+
+**Additional Data:**
+- Modulation Type: Amplitude Shift Keying (ASK)
+- Carrier Waveform: Sinusoidal
+- Modulating Waveform: Digital bits
+- Applications: Digital communication, RFID systems
+- Common Broadcasting Power: N/A (mainly used for short-range communication)
+- Inverse Demodulation Equation: `m(t) = (x(t) / A) - 1`
+
+**Frequency Shift Keying (FSK):**
+
+Frequency Shift Keying (FSK) is a digital modulation technique where different carrier frequencies represent different digital symbols.
+
+**Equation:**
+```plaintext
+x(t) = A * cos(2 * π * f1 * t + φ(m(t)))
+```
+
+**Parameters:**
+- `A`: Amplitude of the carrier signal.
+- `f1`: Frequency for binary value "1".
+- `φ(m(t))`: Phase deviation based on modulating signal.
+
+**Additional Data:**
+- Modulation Type: Frequency Shift Keying (FSK)
+- Carrier Waveform: Sinusoidal
+- Modulating Waveform: Digital bits
+- Applications: Digital communication, wireless remote control
+- Common Broadcasting Power: N/A (mainly used for short-range communication)
+- Inverse Demodulation Equation: Demodulation of FSK signals involves using frequency detectors for each binary value.
+
+Let me know if you're ready for the next set of modulation techniques!
